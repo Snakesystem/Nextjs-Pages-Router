@@ -12,7 +12,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://nextjs-pages-router-xi.vercel.app/](extjs-pages-router-xi.vercel.app) to open web application.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
